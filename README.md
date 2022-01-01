@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Edo88L
+- 👋 Hi, I’m @Edo88L (Edaordo) and i'm italian
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 
